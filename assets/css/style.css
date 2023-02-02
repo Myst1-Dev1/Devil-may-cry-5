@@ -269,7 +269,7 @@ header {
 .characters .character-card .img-container img {
   width:100%!important;
   height:100%;
-  object-fit:fill;
+  object-fit:cover;
 }
 
 .characters .character-card .character-name {
