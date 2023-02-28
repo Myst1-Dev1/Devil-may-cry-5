@@ -90,11 +90,6 @@ header {
   text-align:center;
 }
 
-.buy-container .buy-button a {
-  text-decoration:none;
-  color:#fff;
-}
-
 .buy-container .buy-button button {
   padding:1rem;
   background: #dc143c;
@@ -102,6 +97,11 @@ header {
   border:none;
   font-family: 'Archivo', sans-serif;
   font-size:1rem;
+}
+
+.buy-container .buy-button button a {
+  text-decoration:none;
+  color:#fff;
 }
 
 .trailer-container {
