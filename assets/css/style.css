@@ -20,6 +20,11 @@ button {
   cursor: pointer;
 }
 
+a {
+  text-decoration:none;
+  color:#fff;
+}
+
 /* Header */
 
 header {
@@ -97,11 +102,6 @@ header {
   border:none;
   font-family: 'Archivo', sans-serif;
   font-size:1rem;
-}
-
-.buy-container .buy-button button a {
-  text-decoration:none;
-  color:#fff;
 }
 
 .trailer-container {
