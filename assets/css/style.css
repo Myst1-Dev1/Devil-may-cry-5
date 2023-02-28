@@ -90,6 +90,11 @@ header {
   text-align:center;
 }
 
+.buy-container .buy-button a {
+  text-decoration:none;
+  color:#fff;
+}
+
 .buy-container .buy-button button {
   padding:1rem;
   background: #dc143c;
